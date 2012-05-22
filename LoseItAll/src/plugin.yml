@@ -1,0 +1,9 @@
+name: LoseItAll
+main: me.cnaude.plugin.LoseItAll
+version: 0.1
+author: Chris Naudé 
+description: Lose items at death and do not drop any items.
+permissions:
+  loseitall.loseitall:
+    description: Allows players to automatically lose items on death without dropping them.
+    default: false
